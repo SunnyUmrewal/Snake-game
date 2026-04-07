@@ -14,8 +14,8 @@ FEATURES:
 3. Random food generation (avoids spawning on snake)
 4. Snake growth on eating food
 5. Collision detection:
-     Wall collision
-     Self collision
+     -Wall collision
+     -Self collision
 6. Score tracking system
 7. Restart functionality using popup
 8. Responsive layout (works on smaller screens)
@@ -23,8 +23,8 @@ FEATURES:
 TECH STACK:
 
 HTML – Structure of the game
-CSS – Styling and grid layout
-JavaScript (Modular) – Game logic
+,CSS – Styling and grid layout
+,JavaScript (Modular) – Game logic
 
 HOW TO RUN:
 1. Clone or download the repository
