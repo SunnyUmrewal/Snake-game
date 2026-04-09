@@ -6,7 +6,6 @@ This is a classic Snake Game built using HTML, CSS, and JavaScript, where the pl
 The game runs on a grid-based system (21×21) and uses a smooth animation loop with requestAnimationFrame. 
 The game ends when the snake collides with the wall or itself, after which the player can restart the game.
 
-
 FEATURES:
 
 1. Smooth snake movement using keyboard controls
